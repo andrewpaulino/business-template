@@ -1,0 +1,36 @@
+html {
+    font-family: 'Varela Round'
+}
+.parallax-container {
+    height: 700px;
+  }
+.parallax-content {
+     /* padding-left:470px; */
+    padding-top:200px; 
+    color: white;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-shadow: 0px 3px 7px rgba(0, 0, 0, 0.35);
+
+}
+.first{
+    background-color:lightgray;
+}
+.header{
+    padding-top:20px;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+#lighting {
+    color:yellow
+}
+#money {
+    color:lightgreen
+}
+#book {
+    color:black;
+}
+.padding{
+    padding:20px;
+}
